@@ -34,3 +34,8 @@ pip install -U -r requirements.txt
 python3 manage.py makemigrations
 python3 manage.py migrate
 ```
+
+4. Run server successfully this time.
+```
+python3 manage.py runserver
+```
